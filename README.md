@@ -1,5 +1,39 @@
 # 💫 About Me:
-Fialka based cipher machine
+🔭 I’m currently working on
+- AI/ML projects
+- Fialka-inspired Cipher Machine in Python
+- Data Structures & Algorithms
+- Open Source contributions
+
+👯 I’m looking to collaborate on
+- AI/ML research projects
+- Computer Vision & NLP
+- Open Source Python projects
+- Hackathons
+
+🤝 I’m looking for help with
+- AI research
+- LLMs & RAG applications
+- Open Source best practices
+- Research paper writing
+
+🌱 I’m currently learning
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Computer Vision
+- MLOps
+- PyTorch
+
+💬 Ask me about
+- Python
+- C++
+- AI/ML
+- Data Structures & Algorithms
+- Git & GitHub
+
+⚡ Fun fact
+I enjoy breaking ciphers almost as much as building them. 🔐
 
 
 ## 🌐 Socials:
